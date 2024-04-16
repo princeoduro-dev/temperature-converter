@@ -1,0 +1,21 @@
+Welcome to the Temperature Converter repository! This simple application allows you to convert temperatures between Celsius, Fahrenheit, and Kelvin. Whether you're a student learning about temperature scales or just need a quick tool for everyday use, this converter has got you covered.
+
+Features:
+Convert temperatures between Celsius, Fahrenheit, and Kelvin.
+Easy-to-use interface with clear input and output fields.
+Instantaneous conversion results for quick reference.
+
+
+Enter the Temperature: Input the temperature value in the provided field and select the original temperature scale (Celsius, Fahrenheit, or Kelvin).
+
+View the Conversion: The converted temperatures will be displayed instantly in the other two temperature scales.
+
+Technologies Used:
+HTML
+CSS
+JavaScript
+Contributions:
+Contributions to improve this Temperature Converter are welcome! If you have any ideas for additional features, bug fixes, or improvements to the user interface, feel free to open an issue or submit a pull request.
+
+About the Developer:
+This Temperature Converter application was created by Prince Oduro. Connect with me on GitHub to see more of my projects and stay updated on new releases.
